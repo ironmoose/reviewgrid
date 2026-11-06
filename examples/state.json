@@ -1,0 +1,21 @@
+{
+  "prs": {
+    "example/data-bridge#42": {
+      "title": "Keep retry settings consistent across connection types",
+      "status": "reviewing",
+      "kind": "followup"
+    },
+    "example/web-console#18": {
+      "title": "Add keyboard navigation to the report picker",
+      "status": "awaiting-approval"
+    },
+    "example/api-service#73": {
+      "title": "Handle missing labels in imported reports",
+      "status": "card"
+    },
+    "example/desktop-tools#9": {
+      "title": "Remember window position between launches",
+      "status": "posted"
+    }
+  }
+}
